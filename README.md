@@ -6,6 +6,8 @@ University of Toronto ECE297 project:
 
 Or just a mapper for short. This project was created for the 2020 Winter semester.
 
+![screenshot](./screenshot.png)
+
 Note that due to the size of the database binaries, the only map included in this repository is of Hamilton, Ontario.
 However, the [`osm2bin`](https://github.com/jeffreycassidy/osm2bin) tool can be used to generate maps for other cities using [OpenStreetMap](https://www.openstreetmap.org) data.
 
